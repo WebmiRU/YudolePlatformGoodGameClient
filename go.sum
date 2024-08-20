@@ -1,0 +1,8 @@
+github.com/WebmiRU/YudolePlatformPackages/message v0.0.0-20240612195338-37aa73271c5f h1:w9tIF4m7zLOVBaA+1jldoppFBCfoT4DQHjCNtAFx8VM=
+github.com/WebmiRU/YudolePlatformPackages/message v0.0.0-20240612195338-37aa73271c5f/go.mod h1:iZTQEW50Cjik0OuB0+cobvNoG4a3sghgC5JTY3rgt5Q=
+github.com/WebmiRU/YudolePlatformPackages/module v0.0.0-20240612195338-37aa73271c5f h1:JyLy87+tySnTas2n4utfvPVv2migRiVne/sb7xUlbIA=
+github.com/WebmiRU/YudolePlatformPackages/module v0.0.0-20240612195338-37aa73271c5f/go.mod h1:s2FaIuAXzMwRyFbUKj3IrjadFr2YQrmsfgjgqS2oKUs=
+github.com/WebmiRU/YudolePlatformPackages/tab v0.0.0-20240611224130-586c3768e293 h1:9bHOnoU24Jrfm3UxD7VLo+KUPKqfk1g/aSmUb8pSif8=
+github.com/WebmiRU/YudolePlatformPackages/tab v0.0.0-20240611224130-586c3768e293/go.mod h1:GQfWFF8Igg0L8cQZSXRe7zOBRe4SpmrRNj7D6QJShug=
+github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
+github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
